@@ -22,7 +22,7 @@ In this study, we introduce SA2-Net, a novel attention-guided approach that harn
 Additionally, we tackle the challenge of blurry region boundaries, such as cell boundaries, by introducing a groundbreaking upsampling strategy called the Adaptive Up-Attention (AuA) module. This innovative module enhances discriminative capabilities, leading to improved localization of microscopic regions through the application of an explicit attention mechanism.
 
 ## Contact
-If you have any questions, please create an issue on this repository or contact us at mustansar.fiaz@mbzuai.ac.ae
+If you have any questions, please create an issue on this repository or contact us at mustansar.fiaz@mbzuai.ac.ae or moein.heidari@ubc.ca
 
 <hr />
 
